@@ -1,0 +1,16 @@
+body{
+    display: flex;
+   align-items: center;
+   justify-content: center;
+   height: 90vh;
+
+}
+.container{
+    text-align: center;
+}
+.input-container{
+    margin-top: 20px;
+}
+button{
+    cursor: pointer;
+}
